@@ -1,4 +1,8 @@
 # kirara_database
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+ [![Build Status](https://travis-ci.com/Seigenkousya/kinako-chan.svg?branch=master)](https://travis-ci.com/Seigenkousya/kinako-chan)
+ ![Version](https://img.shields.io/badge/version-0.0.0-orange)
+ ![S.I.N](https://img.shields.io/badge/S.I.N-%23004-00aaaa)  
 きららのあらゆる情報を集めたデータサイト。
 只今構築中。
 
@@ -23,3 +27,22 @@
 - センターカラー数
 - KR menu
 - アマゾンのリンク
+
+# License
+The code is released under the MIT License.  
+See LICENSE.  
+
+# Author
+正弦工社 S.I.N  
+Twitter:[@Seigenkousya](https://twitter.com/Seigenkousya)    
+homepage:[https://seigenkousya.github.io/](https://seigenkousya.github.io/)  
+
+## maintainer
+Takana Norimasa  
+Twitter:[@303_See_0ther](https://twitter.com/303_See_0ther)  
+homepage:[https://takana-norimasa.github.io/blog/](https://takana-norimasa.github.io/blog/)  
+
+# Released
+## ver 0.0.0  
+This site is now building.  
+
