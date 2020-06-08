@@ -1,5 +1,5 @@
 # kirara_database
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
  [![Build Status](https://travis-ci.com/Seigenkousya/kinako-chan.svg?branch=master)](https://travis-ci.com/Seigenkousya/kinako-chan)
  ![Version](https://img.shields.io/badge/version-0.0.0-orange)
  ![S.I.N](https://img.shields.io/badge/S.I.N-%23004-00aaaa)  
